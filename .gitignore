@@ -1,0 +1,5 @@
+# Build folder and log file
+device/
+simulator/
+*.zip
+.DS_Store
